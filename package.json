@@ -1,0 +1,25 @@
+{
+  "name": "redux-cache-encrypt",
+  "version": "1.0.0",
+  "description": "Cache and encrypt your redux store in WebSQL or IndexedDB",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/abhishekraj272/redux-cache-encrypt.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "redux",
+    "react",
+    "cache",
+    "middleware",
+    "encrypt"
+  ],
+  "author": "Abhishek Raj",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.2.4"
+  }
+}
